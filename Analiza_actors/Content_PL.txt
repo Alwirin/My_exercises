@@ -1,0 +1,6 @@
+Bazując na danych o aktorach z actor_analytics zbadać jaki % aktorów odpowiada za jaki % wpływów wypożyczalni.
+Posortuj partycje tam, gdzie jest to konieczne. Sortujemy od maksimum do minimum.
+
+Źródło: https://dev.mysql.com/
+Baza: Sakila
+Tabele: actor_analytics

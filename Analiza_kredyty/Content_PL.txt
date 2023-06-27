@@ -1,0 +1,4 @@
+Zapytania do analizy bazy danych kredytobiorców
+Źródło: https://dev.mysql.com/
+Baza: employees
+Tabele: loan, account, disp, client, district

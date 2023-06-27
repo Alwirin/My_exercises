@@ -1,0 +1,14 @@
+Analiza ofert pracy na stanowiska:
+
+data analyst,
+data engineer,
+data scientist
+
+Ze strony: nofluffjobs
+
+Przeanalizowanie zebranych danych pod kątem:
+
+- jaki jest szacunkowy wydatek na zatrudnienie takich ludzi,
+- jakie widełki powinna zawierać każda z ofert,
+- w jakich miastach można zatrudnić takie osoby,
+- czy istnieje możliwość, aby zespół został powołany w jednym mieście?

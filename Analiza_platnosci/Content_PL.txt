@@ -1,0 +1,5 @@
+Procedura generate_payment_report, która generuje raport na daną datę, umieszczając w niej dane o pracownikach i ich płacach, którzy w danym dniu byli zatrudnieni.
+Założenie: raport ma być dostępny na koniec danego miesiąca.
+Źródło: https://dev.mysql.com/
+Baza: sakila
+Tabele: salaries, employees, dept_emp, departments
